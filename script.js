@@ -1,5 +1,6 @@
-function hello(){
-    console.log("Website Loaded");
-}
+console.log("Portfolio Website Loaded");
 
-hello();
+// Simple alert (optional test)
+window.onload = function () {
+  console.log("Welcome to Aminul Portfolio");
+};
